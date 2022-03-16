@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  color: white;
+  text-align: center;
+  margin: 35px 0;
+}
+.btns {
+  text-align: center;
+  border: none;
+}
+
+.main {
+  width: 170px;
+  height: 6vh;
+}
+.app {
+  border: 20px solid gray;
+  width: 45vw;
+  margin: 20px auto;
+  background-color: rgb(32, 34, 44);
+}
+.inp {
+  background-color: transparent;
+  width: 30rem;
+  margin: 15px auto 0 auto;
+  color: white;
+}
+.nameParent {
+  justify-content: center;
+  width: 35rem;
+}
+.nameParent .inp {
+  margin: 5px;
+  width: 15rem;
+  align-items: center;
+}
+.lastbtn {
+  width: 30rem;
+  margin: 0 35px 20px 0;
+}
+
+.icon {
+  color: gray;
+  position: absolute;
+  bottom: 10px;
+  left: 70px;
+}
+.icon2 {
+  color: gray;
+  position: absolute;
+  bottom: 355px;
+  left: 460px;
+}
